@@ -1,0 +1,296 @@
+memory[0]=8454153
+memory[1]=8519690
+memory[2]=8585227
+memory[3]=4718596
+memory[4]=2228229
+memory[5]=2818054
+memory[6]=12976140
+memory[7]=29360128
+memory[8]=25165824
+memory[9]=-10
+memory[10]=-20
+memory[11]=30
+memory[12]=0
+
+@@@
+state:
+	pc 0
+	memory:
+		mem[ 0 ] 8454153
+		mem[ 1 ] 8519690
+		mem[ 2 ] 8585227
+		mem[ 3 ] 4718596
+		mem[ 4 ] 2228229
+		mem[ 5 ] 2818054
+		mem[ 6 ] 12976140
+		mem[ 7 ] 29360128
+		mem[ 8 ] 25165824
+		mem[ 9 ] -10
+		mem[ 10 ] -20
+		mem[ 11 ] 30
+		mem[ 12 ] 0
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] 0
+		reg[ 2 ] 0
+		reg[ 3 ] 0
+		reg[ 4 ] 0
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 1
+	memory:
+		mem[ 0 ] 8454153
+		mem[ 1 ] 8519690
+		mem[ 2 ] 8585227
+		mem[ 3 ] 4718596
+		mem[ 4 ] 2228229
+		mem[ 5 ] 2818054
+		mem[ 6 ] 12976140
+		mem[ 7 ] 29360128
+		mem[ 8 ] 25165824
+		mem[ 9 ] -10
+		mem[ 10 ] -20
+		mem[ 11 ] 30
+		mem[ 12 ] 0
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -10
+		reg[ 2 ] 0
+		reg[ 3 ] 0
+		reg[ 4 ] 0
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 2
+	memory:
+		mem[ 0 ] 8454153
+		mem[ 1 ] 8519690
+		mem[ 2 ] 8585227
+		mem[ 3 ] 4718596
+		mem[ 4 ] 2228229
+		mem[ 5 ] 2818054
+		mem[ 6 ] 12976140
+		mem[ 7 ] 29360128
+		mem[ 8 ] 25165824
+		mem[ 9 ] -10
+		mem[ 10 ] -20
+		mem[ 11 ] 30
+		mem[ 12 ] 0
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -10
+		reg[ 2 ] -20
+		reg[ 3 ] 0
+		reg[ 4 ] 0
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 3
+	memory:
+		mem[ 0 ] 8454153
+		mem[ 1 ] 8519690
+		mem[ 2 ] 8585227
+		mem[ 3 ] 4718596
+		mem[ 4 ] 2228229
+		mem[ 5 ] 2818054
+		mem[ 6 ] 12976140
+		mem[ 7 ] 29360128
+		mem[ 8 ] 25165824
+		mem[ 9 ] -10
+		mem[ 10 ] -20
+		mem[ 11 ] 30
+		mem[ 12 ] 0
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -10
+		reg[ 2 ] -20
+		reg[ 3 ] 30
+		reg[ 4 ] 0
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 4
+	memory:
+		mem[ 0 ] 8454153
+		mem[ 1 ] 8519690
+		mem[ 2 ] 8585227
+		mem[ 3 ] 4718596
+		mem[ 4 ] 2228229
+		mem[ 5 ] 2818054
+		mem[ 6 ] 12976140
+		mem[ 7 ] 29360128
+		mem[ 8 ] 25165824
+		mem[ 9 ] -10
+		mem[ 10 ] -20
+		mem[ 11 ] 30
+		mem[ 12 ] 0
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -10
+		reg[ 2 ] -20
+		reg[ 3 ] 30
+		reg[ 4 ] 9
+		reg[ 5 ] 0
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 5
+	memory:
+		mem[ 0 ] 8454153
+		mem[ 1 ] 8519690
+		mem[ 2 ] 8585227
+		mem[ 3 ] 4718596
+		mem[ 4 ] 2228229
+		mem[ 5 ] 2818054
+		mem[ 6 ] 12976140
+		mem[ 7 ] 29360128
+		mem[ 8 ] 25165824
+		mem[ 9 ] -10
+		mem[ 10 ] -20
+		mem[ 11 ] 30
+		mem[ 12 ] 0
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -10
+		reg[ 2 ] -20
+		reg[ 3 ] 30
+		reg[ 4 ] 9
+		reg[ 5 ] -11
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 6
+	memory:
+		mem[ 0 ] 8454153
+		mem[ 1 ] 8519690
+		mem[ 2 ] 8585227
+		mem[ 3 ] 4718596
+		mem[ 4 ] 2228229
+		mem[ 5 ] 2818054
+		mem[ 6 ] 12976140
+		mem[ 7 ] 29360128
+		mem[ 8 ] 25165824
+		mem[ 9 ] -10
+		mem[ 10 ] -20
+		mem[ 11 ] 30
+		mem[ 12 ] 0
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -10
+		reg[ 2 ] -20
+		reg[ 3 ] 30
+		reg[ 4 ] 9
+		reg[ 5 ] -11
+		reg[ 6 ] 19
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 7
+	memory:
+		mem[ 0 ] 8454153
+		mem[ 1 ] 8519690
+		mem[ 2 ] 8585227
+		mem[ 3 ] 4718596
+		mem[ 4 ] 2228229
+		mem[ 5 ] 2818054
+		mem[ 6 ] 12976140
+		mem[ 7 ] 29360128
+		mem[ 8 ] 25165824
+		mem[ 9 ] -10
+		mem[ 10 ] -20
+		mem[ 11 ] 30
+		mem[ 12 ] 19
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -10
+		reg[ 2 ] -20
+		reg[ 3 ] 30
+		reg[ 4 ] 9
+		reg[ 5 ] -11
+		reg[ 6 ] 19
+		reg[ 7 ] 0
+end state
+
+@@@
+state:
+	pc 8
+	memory:
+		mem[ 0 ] 8454153
+		mem[ 1 ] 8519690
+		mem[ 2 ] 8585227
+		mem[ 3 ] 4718596
+		mem[ 4 ] 2228229
+		mem[ 5 ] 2818054
+		mem[ 6 ] 12976140
+		mem[ 7 ] 29360128
+		mem[ 8 ] 25165824
+		mem[ 9 ] -10
+		mem[ 10 ] -20
+		mem[ 11 ] 30
+		mem[ 12 ] 19
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -10
+		reg[ 2 ] -20
+		reg[ 3 ] 30
+		reg[ 4 ] 9
+		reg[ 5 ] -11
+		reg[ 6 ] 19
+		reg[ 7 ] 0
+end state
+machine halted
+total of 9 instructions executed
+final state of machine:
+
+@@@
+state:
+	pc 9
+	memory:
+		mem[ 0 ] 8454153
+		mem[ 1 ] 8519690
+		mem[ 2 ] 8585227
+		mem[ 3 ] 4718596
+		mem[ 4 ] 2228229
+		mem[ 5 ] 2818054
+		mem[ 6 ] 12976140
+		mem[ 7 ] 29360128
+		mem[ 8 ] 25165824
+		mem[ 9 ] -10
+		mem[ 10 ] -20
+		mem[ 11 ] 30
+		mem[ 12 ] 19
+	registers:
+		reg[ 0 ] 0
+		reg[ 1 ] -10
+		reg[ 2 ] -20
+		reg[ 3 ] 30
+		reg[ 4 ] 9
+		reg[ 5 ] -11
+		reg[ 6 ] 19
+		reg[ 7 ] 0
+end state
